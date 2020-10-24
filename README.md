@@ -1,1 +1,1 @@
-# Just es test of ABAPGIT
+# Just a test of ABAPGIT
